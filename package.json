@@ -1,0 +1,18 @@
+{
+  "name": "falta",
+  "version": "0.1.0",
+  "description": "A module to fail blank modules installations.",
+  "main": "bin/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Helio Frota",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}

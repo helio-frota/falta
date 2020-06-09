@@ -1,0 +1,9 @@
+{
+  "name": "blank-module",
+  "version": "1.0.0",
+  "description": "Nothing here.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node fail.js"
+  }
+}
