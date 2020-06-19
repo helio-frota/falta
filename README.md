@@ -8,5 +8,7 @@
 npm i
 npm link .
 npx . myapp
+or 
+npx . myappDir myappName
 ```
 
