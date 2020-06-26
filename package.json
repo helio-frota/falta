@@ -1,6 +1,6 @@
 {
   "name": "falta",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "A module to fail blank modules installations.",
   "main": "bin/main.js",
   "scripts": {},
