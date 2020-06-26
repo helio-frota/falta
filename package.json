@@ -11,5 +11,8 @@
     "mkdirp": "^1.0.4"
   },
   "devDependencies": {},
-  "files": ["templates"]
+  "files": ["templates"],
+  "bin": {
+    "falta": "./bin/main.js"
+  }
 }
