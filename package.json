@@ -1,6 +1,6 @@
 {
   "name": "falta",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A module to fail blank modules installations.",
   "main": "bin/main.js",
   "scripts": {},
@@ -11,7 +11,9 @@
     "mkdirp": "^1.0.4"
   },
   "devDependencies": {},
-  "files": ["templates"],
+  "files": [
+    "templates"
+  ],
   "bin": {
     "falta": "./bin/main.js"
   }
