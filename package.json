@@ -10,5 +10,6 @@
     "minimist": "^1.2.5",
     "mkdirp": "^1.0.4"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "files": ["templates"]
 }
